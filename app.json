@@ -1,0 +1,12 @@
+{
+  "name": "trails",
+  "displayName": "trails",
+  "expo": {
+    "name": "trails",
+    "slug": "trails",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
